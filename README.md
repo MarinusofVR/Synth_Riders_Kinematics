@@ -2,7 +2,7 @@
 
 **[Open the Synth Riders Kinematic Analyzer](https://marinusofvr.github.io/Synth_Riders_Kinematics/Synth_Riders_Kinematic_Analyzer.html)**
 
-**A standalone Synth Riders beatmap viewer and biomechanical analysis tool.** Reconstruct hypothetical hand trajectories from a map, infer body movement, and explore joint kinematics, muscle loading, fatigue, overhead exposure, and estimated exercise energy.
+**A standalone beatmap viewer and biomechanical analysis tool for Synth Riders.** Reconstruct hypothetical hand trajectories from a map, infer body movement, and explore joint kinematics, muscle loading, fatigue, overhead exposure, and estimated exercise energy. This tool is not affiliated with Synth Riders VR or Kluge Interactive, we just love the game.
 
 Use the hosted web page or download the standalone HTML for offline use. Analysis runs locally in your browser in either case. No installation, account, or analysis server is required. Map files are read without modification.
 
